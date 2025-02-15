@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📱 Android developer enthusiast<br>💻 Learning Flutter, java and c++<br>⚡ Fun fact: I like to play Valorant
+📱 Android developer enthusiast<br>💻 Learning Flutter, java and c++<br>⚡ Fun fact: I like playing games
 
 
 ## 🌐 Socials:
