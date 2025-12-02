@@ -9,7 +9,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22344233) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@f_i_z__)
 
-<img src="https://komarev.com/ghpvc/?username=fish-shy&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=fish-shy&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -41,16 +41,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fish-shy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fish-shy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fish-shy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-## 📈 Most Used Languages
+![GitHub Streak](https://streak-stats.demolab.com/?user=fish-shy&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish-shy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-shy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
 </div>
 
 ---
@@ -58,29 +55,29 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fish-shy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=fish-shy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fish-shy&theme=tokyo-night&hide_border=true)
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fish-shy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  
+
+### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
 ### 💬 Let's Connect and Build Something Amazing Together!
 
 **Thanks for visiting my profile!** ⭐
