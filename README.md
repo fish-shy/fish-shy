@@ -18,8 +18,8 @@
 ## 💫 About Me
 
 🔭 I'm currently working on **Android Apps**  
-🌱 I'm currently learning **Flutter, Java, & Rust**  
-⚡ Fun fact: **I love gaming** 🎮  
+🌱 I'm currently learning **Blockchain technology**  
+⚡ Fun fact: **I Reading**  
 
 ---
 
