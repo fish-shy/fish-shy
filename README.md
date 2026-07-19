@@ -17,9 +17,9 @@
 
 ## 💫 About Me
 
-🔭 I'm currently working on **Android Apps**  
+🔭 I'm currently working on **An Art Marketplace**  
 🌱 I'm currently learning **Blockchain technology**  
-⚡ Fun fact: **I Reading**  
+⚡ Fun fact: **I Love Reading**  
 
 ---
 
