@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hafiz! 👋
 
-### 📱 Android Developer Enthusiast | 🦀 Rust Learner | 🎮 Gaming Enthusiast
+### 📱 Android Developer Enthusiast | 🎮 Gaming Enthusiast
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fishiwak/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-nazwa-nugraha-022026289/) 
