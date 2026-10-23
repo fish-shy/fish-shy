@@ -43,12 +43,10 @@ This GitHub is my sandbox—where I experiment with code, contribute to random p
 
 ---
 
-## 🏆 GitHub Trophy Room
+## 🎲 Pause for a Dev Joke
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fish-shy&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies"/>
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
 </div>
 
 ---
