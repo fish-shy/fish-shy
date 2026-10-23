@@ -9,10 +9,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fishiwak/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@f_i_z__)
 
-<img src="https://komarev.com/ghpvc/?username=fish-shy&style=flat-square&color=blueviolet" alt="Profile Views"/>
-
 <br>
-<img src="https://raw.githubusercontent.com/7suyash7/7suyash7/main/assets/developer.gif" width="400" alt="Animated Developer coding"/>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=fish-shy&label=Profile%20Views&labelColor=%231a1b27&countColor=%238a2be2&style=flat-square" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/programmer.gif" width="250" alt="Animated Developer coding"/>
 </div>
 
 ---
@@ -44,7 +47,7 @@ This GitHub is my sandbox—where I experiment with code, contribute to random p
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fish-shy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fish-shy&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies"/>
   </a>
 </div>
 
